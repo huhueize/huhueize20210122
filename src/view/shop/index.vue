@@ -13,8 +13,8 @@
 </template>
 
 <script>
-    import ProductList from "ProductList";
-    import Car from "Car";
+    import ProductList from "../../components/ProductList";
+    import Car from "../../components/Car";
     export default {
         name: "App",
         components: { ProductList ,Car}
